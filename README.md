@@ -22,8 +22,6 @@ This is my personal portfolio website built with HTML, CSS, and JavaScript.
 
 ## 🧷 Badges & Visual Flair
 
-## 🧷 Badges & Visual Flair
-
 ![GitHub Repo stars](https://img.shields.io/github/stars/breiajohn/new-portfolio?style=social)
 ![GitHub Forks](https://img.shields.io/github/forks/breiajohn/new-portfolio?style=social)
 ![GitHub Issues](https://img.shields.io/github/issues/breiajohn/new-portfolio)
