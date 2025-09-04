@@ -821,6 +821,7 @@ p.extend-details {
   font-weight: 400;
   margin: 0;
   text-transform: uppercase;
+
 }
 @media only screen and (min-width: 768px) {
   .cd-timeline-content h2 {
